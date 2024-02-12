@@ -265,9 +265,18 @@ footer a {
     text-align: left;
   }
 
+  header div {
+    width: 75%;
+    display: inline-block;
+  }
+
   header div img {
     margin: 0;
     vertical-align: middle;
+  }
+
+  header nav {
+    display: inline-block;
   }
 
   header p {
